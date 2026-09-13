@@ -15,7 +15,8 @@ https://www.youtube.com/watch?v=LQD9rjRJ_-ohttps://www.youtube.com/watch?v=LQD9r
 
 All rights goes to the rightful owners.
 
-Includes:
+
+# What's included inside?
 
     - PSPrevolution files along with Mungyodance Portable theme
-    - All Mungyodance (1,2,3) songs
+    - ALL Mungyodance (1,2,3) songs along with sets from Em's website
