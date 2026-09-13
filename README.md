@@ -20,3 +20,14 @@ All rights goes to the rightful owners.
 
     - PSPrevolution files along with Mungyodance Portable theme
     - ALL Mungyodance (1,2,3) songs along with sets from Em's website
+
+
+# What's needed to run it & how to run it?
+
+It is required to have PPSSPP or modified PSP itself in order to launch it
+
+Steps:
+1) Download files itself & extract in destined folder you want to
+2) Install PPSSPP & select folder where it was extracted
+3) Once everything is selected, you should be able to see PSPRevolution logo
+4) Launch it and after loading head over to settings and choose "Themes" and select Mungyodance Portable if it isn't pre-selected, otherwise you can skip.
