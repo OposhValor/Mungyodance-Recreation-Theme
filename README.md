@@ -31,3 +31,8 @@ Steps:
 2) Install PPSSPP & select folder where it was extracted
 3) Once everything is selected, you should be able to see PSPRevolution logo
 4) Launch it and after loading head over to settings and choose "Themes" and select Mungyodance Portable if it isn't pre-selected, otherwise you can skip.
+
+
+# Known issues
+
+Some song thumbnails aren't loading properly for some reason, so it will fixed at some point since I need to first find how many and what songs aren't showing properly.
